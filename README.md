@@ -22,3 +22,6 @@ BrowserQuest server in PHP
 
 ## 原Repo - Original Repo
 [https://github.com/mozilla/BrowserQuest](https://github.com/mozilla/BrowserQuest)
+
+
+remote ip: //    "host": "115.28.137.45",
